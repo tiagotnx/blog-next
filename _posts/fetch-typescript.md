@@ -1,13 +1,13 @@
 ---
 title: "Usando Fetch no TypeScript"
 excerpt: "O TypeScript é uma linguagem de programação que adiciona tipagem estática ao JavaScript, permitindo que os desenvolvedores detectem erros mais cedo no processo de desenvolvimento e facilitem a manutenção do código. Além disso, o TypeScript permite o uso de recursos mais avançados do JavaScript, como async/await e a biblioteca Fetch, que permite fazer solicitações HTTP de forma assíncrona."
-coverImage: "/assets/blog/hello-world/typescript.png"
+coverImage: "/assets/blog/typescript/typescript.webp"
 date: "2023-04-04T05:35:07.322Z"
 author:
     name: Tiago
     picture: "/assets/blog/authors/tiago.webp"
 ogImage:
-    url: "/assets/blog/hello-world/typescript.webp"
+    url: "/assets/blog/typescript/typescript.webp"
 ---
 
 O TypeScript é uma linguagem de programação que adiciona tipagem estática ao JavaScript, permitindo que os desenvolvedores detectem erros mais cedo no processo de desenvolvimento e facilitem a manutenção do código. Além disso, o TypeScript permite o uso de recursos mais avançados do JavaScript, como async/await e a biblioteca Fetch, que permite fazer solicitações HTTP de forma assíncrona.
